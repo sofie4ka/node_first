@@ -1,2 +1,2 @@
-const i = 0 + 4;
+const i = 'I love node.js!';
 console.log(i);
